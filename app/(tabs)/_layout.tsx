@@ -13,7 +13,6 @@ export default function TabLayout() {
         height: "100%",
       }}
     >
-      {/* <Form /> */}
       <View
         style={{
           alignItems: "center",
